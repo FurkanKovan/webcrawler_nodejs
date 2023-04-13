@@ -1,0 +1,19 @@
+{
+  "name": "http_webcrawler",
+  "version": "1.0.0",
+  "description": "A HTTP Web Crawler command-line application build with Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/FurkanKovan/webcrawler_nodejs)"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
